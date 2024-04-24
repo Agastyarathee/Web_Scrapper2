@@ -1,0 +1,94 @@
+id,Star_name,Distance,Bayers,Visual_Magnitude,Luminosity
+0,Sun,0.0,,0.000−26.74,G2 V
+1,Sirius,0008.6,α CMa,0.001−1.46,"A0mA1 Va, DA2"
+2,Canopus,0310,α Car,0.003−0.74,A9 II
+3,Rigil Kentaurus& Toliman,0004.34,α Cen,0.004−0.27 (0.01 + 1.33),"G2 V, K1 V"
+4,Arcturus,0037,α Boo,0.005−0.05,K0 III
+5,Vega,0025,α Lyr,0.03 (−0.02–0.07var),A0 Va
+6,Capella,0043,α Aur,0.08 (0.03–0.16var),"K0 III, G1 III"
+7,Rigel,0860,β Ori,0.13 (0.05–0.18var),B8 Ia
+8,Procyon,0011,α CMi,0.34,F5 IV-V
+9,Achernar,0139,α Eri,0.46 (0.40–0.46var),B3 Vpe
+10,Betelgeuse,640,α Ori,0.50 (0.0–1.6var),M1-M2 Ia-ab
+11,Hadar,0390,β Cen,0.61,B1 III
+12,Altair,0017,α Aql,0.76,A7 V
+13,Acrux,0320,α Cru,0.76 (1.33 + 1.73),"B0.5 IV, B1 V"
+14,Aldebaran,0065,α Tau,0.86 (0.75–0.95var),K5 III
+15,Antares,0550,α Sco,0.96 (0.6–1.6var),"M1.5 Iab-Ib, B2.5 V"
+16,Spica,0250,α Vir,0.97 (0.97–1.04var),"B1 III-IV, B2 V"
+17,Pollux,0034,β Gem,1.14,K0 III
+18,Fomalhaut,0025,α PsA,1.16,A3 V
+19,Deneb,"2,600",α Cyg,1.25 (1.21–1.29var),A2 Ia
+20,Mimosa,0280,β Cru,1.25 (1.23–1.31var),"B0.5 III, B2 V"
+21,Regulus,0079,α Leo,1.39,B8 IVn
+22,Adhara,0430,ε CMa,1.50,B2 II
+23,Castor,0051,α Gem,1.58 (1.93 + 2.97),"A1 V, Am"
+24,Shaula,0570,λ Sco,1.62,B2 IV
+25,Gacrux,0089,γ Cru,1.64,M3.5 III
+26,Bellatrix,0250,γ Ori,1.64,B2 III
+27,Elnath,0130,β Tau/γ Aur,1.65,B7 III
+28,Miaplacidus,0110,β Car,1.69,A1 III
+29,Alnilam,"2,000",ε Ori,1.69 (1.64–1.74var),B0 Ia
+30,Regor,0840,γ Vel,1.72 (1.81–1.87var + 4.27),"WC8, O7.5III"
+31,Alnair,0100,α Gru,1.74,B6 V
+32,Alnitak,"01,300",ζ Ori,1.77,"O9.5 Iab, B1 IV, B0 III"
+33,Alioth,0083,ε UMa,1.77,A1 III-IVp kB9
+34,Dubhe,0120,α UMa,1.79,"K0 III, F0 V"
+35,Mirfak,0510,α Per,1.80,F5 Ib
+36,Wezen,"1,800",δ CMa,1.82,F8 Ia
+37,Sargas,0330,θ Sco,1.84,F0 II
+38,Kaus Australis,0140,ε Sgr,1.85,B9.5 III
+39,Avior,0600,ε Car,1.86,"K3 III, B2 Vp"
+40,Alkaid,0100,η UMa,1.86,B3 V
+41,Menkalinan,080,β Aur,1.90 (1.89–1.94var),A1mIV+A1mIV
+42,Atria,0390,α TrA,1.91,K2 IIb-IIIa
+43,Alhena,0100,γ Gem,1.92,A1.5 IV+
+44,Peacock,0180,α Pav,1.94,B3 V
+45,Alsephina,0080,δ Vel,1.96 (1.99–2.39var + 5.57),"A1 Va(n), F7.5 V"
+46,Mirzam,0500,β CMa,1.98,B1 II-III
+47,Alphard,0180,α Hya,2.00,K3 II-III
+48,Polaris,0430,α UMi,1.98 (1.86–2.13var),F7 Ib
+49,Hamal,0066,α Ari,2.00,K1 IIIb
+50,Algieba,0130,γ Leo,2.08 (2.37 + 3.64),"K0 III, G7 IIIb"
+51,Diphda,0096,β Cet,2.02,K0 III
+52,Mizar,0083,ζ UMa,2.04,"A2 Vp, A2 Vp, Am"
+53,Nunki,0230,σ Sgr,2.05,B2.5 V
+54,Menkent,0059,θ Cen,2.06,K0 III
+55,Alpheratz,0097,α And/δ Peg,2.06,"B8 IVpMnHg, A3 V"
+56,Mirach,0200,β And,2.07[9] (2.01–2.10var),M0 III
+57,Rasalhague,0047,α Oph,2.07,A5IVnn
+58,Kochab,0130,β UMi,2.08,K4 III
+59,Saiph,0720,κ Ori,2.09,B0.5 Ia
+60,Denebola,0036,β Leo,2.11,A3 Va
+61,Algol,0093,β Per,2.12 (2.1–3.39var),"B8 V, K0 IV, A7m"
+62,Tiaki,0170,β Gru,2.15 (2.0–2.3var),M5 III
+63,Muhlifain,0130,γ Cen,2.17,"A0 III, A0 III"
+64,Aspidiske,0690,ι Car,2.21,A9 Ib
+65,Suhail,0570,λ Vel,2.21 (2.14–2.30var),K4 Ib
+66,Alphecca,0075,α CrB,2.23 (2.21–2.32var),"A0 V, G5 V"
+67,Mintaka,0900,δ Ori,2.23 (2.23–2.35var),"O9.5 II, B1 V, B0 IV"
+68,Sadr,"1,500",γ Cyg,2.23,F8 Iab
+69,Eltanin,0150,γ Dra,2.23,K5 III
+70,Schedar,0230,α Cas,2.24,K0 IIIa
+71,Naos,"1,080",ζ Pup,2.25,O4 If(n)p
+72,Almach,0350,γ And,2.26,"K3 IIb, B9.5 V, B9.5 V, A0 V"
+73,Caph,0054,β Cas,2.28 (2.25–2.31var),F2 III
+74,Izar,0202,ε Boo,2.29,"K0 II-III, A2 V"
+75,—,0550,α Lup,2.30 (2.29–2.34var),B1.5 III
+76,—,0380,ε Cen,2.30 (2.29–2.31var),B1III
+77,Dschubba,0400,δ Sco,2.31 (1.6–2.32var),"B0.3 IV, B1-3 V"
+78,Larawag,0065,ε Sco,2.31,K1 III
+79,—,0310,η Cen,2.35 (2.30–2.41var),B1.5 Vne
+80,Merak,0079,β UMa,2.37,A1 IVps
+81,Ankaa,0077,α Phe,2.38,K0.5 IIIb
+82,Girtab,0460,κ Sco,2.39,B1.5 III
+83,Enif,0670,ε Peg,2.40 (0.7–3.0var),K2 Ib
+84,Scheat,0200,β Peg,2.42 (2.31–2.74var),M2.5 II-IIIe
+85,Sabik,0088,η Oph,2.43,"A1 IV, A1 IV"
+86,Phecda,0084,γ UMa,2.44,A0 Ve
+87,Aludra,"2,000",η CMa,2.45,B5 Ia
+88,Markeb,0540,κ Vel,2.46,B2 IV
+89,Navi,0610,γ Cas,2.47 (1.6–3.0var),B0.5 IVe
+90,Markab,0140,α Peg,2.48,A0 IV
+91,Aljanah,0072,ε Cyg,2.48,K0 III-IV
+92,Acrab,0404,β Sco,2.50,"B0.5 IV-V, B1.5 V, B2 V"
